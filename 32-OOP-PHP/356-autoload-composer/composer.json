@@ -1,0 +1,15 @@
+{
+    "name": "miltonzini/autoload-composer",
+    "description": "Sobre Namespaces y autoload",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./clases"
+        }
+    },
+    "authors": [
+        {
+            "name": "miltonzini",
+            "email": "miltonzini@gmail.com"
+        }
+    ]
+}
